@@ -1,3 +1,17 @@
+# Repositório do tutorial de React JS
+Este projeto é simples. Realizei apenas para aprender os primeiros conceitos sobre a biblioteca **[React.Js](https://reactjs.org/)**.\
+Como exemplo, o site da biblioteca nos guia no desenvolvimento de um jogo **[Tic-tac-toe](https://en.wikipedia.org/wiki/Tic-tac-toe)**.
+- [Link do tutorial](https://rectjs.org/tutorial/tutorial.html)
+
+## Descrição do jogo
+O jogo Tic-tac-toe (conhecido no Brasil por "Jogo da Velha") tem sua origem desconhecida,\
+porém temos relatos de tabuleiros escavados no Egito antigo, feitos por escravos a 3500 anos.
+
+## Regras
+- São dois jogadores (_**"X"**_ e _**"O"**_);
+- Em cada turno, um jogador preenche um espaço de sua escolha;
+- Ganha aquele que completar 3 espaços em série, em qualquer direção (horizontalmente, verticalmente ou diagonalmente).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
